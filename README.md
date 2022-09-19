@@ -1,3 +1,4 @@
+# Projetos e exercícios sem BUILD realizado, trata-se de arquivos para estudo!!!!
 <<<<<<< HEAD
 # Getting Started with Create React App
 
